@@ -1,5 +1,12 @@
 # CV
 CV de Hariharani THEIVENDRAM -Etudiante au lycée Turgot - BTS SIO informatique cybersécurité
+
+## Coordonnées
+Nom : THEIVENDRAM
+Prénom : Hariharani
+email : hariharani.theivendram@gmail.com
+numéro de téléphone : 07 53 47 56 99
+
 ## Compétences
 
 ### Gestion de projet
